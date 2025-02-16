@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/amancodewiz/LeetCodeTracker/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0061-rotate-list](https://github.com/amancodewiz/LeetCodeTracker/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/amancodewiz/LeetCodeTracker/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/amancodewiz/LeetCodeTracker/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/amancodewiz/LeetCodeTracker/tree/master/0283-move-zeroes) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/amancodewiz/LeetCodeTracker/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0061-rotate-list](https://github.com/amancodewiz/LeetCodeTracker/tree/master/0061-rotate-list) |
 ## Array
 |  |
 | ------- |
