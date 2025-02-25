@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/amancodewiz/LeetCodeTracker/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/amancodewiz/LeetCodeTracker/tree/master/0283-move-zeroes) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/amancodewiz/LeetCodeTracker/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/amancodewiz/LeetCodeTracker/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2107-find-unique-binary-string](https://github.com/amancodewiz/LeetCodeTracker/tree/master/2107-find-unique-binary-string) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/amancodewiz/LeetCodeTracker/tree/master/2564-most-profitable-path-in-a-tree) |
 ## Hash Table
@@ -72,4 +73,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2564-most-profitable-path-in-a-tree](https://github.com/amancodewiz/LeetCodeTracker/tree/master/2564-most-profitable-path-in-a-tree) |
+## Math
+|  |
+| ------- |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/amancodewiz/LeetCodeTracker/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/amancodewiz/LeetCodeTracker/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/amancodewiz/LeetCodeTracker/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 <!---LeetCode Topics End-->
