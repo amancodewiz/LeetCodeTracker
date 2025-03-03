@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/amancodewiz/LeetCodeTracker/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/amancodewiz/LeetCodeTracker/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/amancodewiz/LeetCodeTracker/tree/master/0283-move-zeroes) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/amancodewiz/LeetCodeTracker/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/amancodewiz/LeetCodeTracker/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/amancodewiz/LeetCodeTracker/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## String
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/amancodewiz/LeetCodeTracker/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/amancodewiz/LeetCodeTracker/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2107-find-unique-binary-string](https://github.com/amancodewiz/LeetCodeTracker/tree/master/2107-find-unique-binary-string) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/amancodewiz/LeetCodeTracker/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/amancodewiz/LeetCodeTracker/tree/master/2551-apply-operations-to-an-array) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/amancodewiz/LeetCodeTracker/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/amancodewiz/LeetCodeTracker/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -95,5 +97,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2265-partition-array-according-to-given-pivot](https://github.com/amancodewiz/LeetCodeTracker/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/amancodewiz/LeetCodeTracker/tree/master/2551-apply-operations-to-an-array) |
 <!---LeetCode Topics End-->
