@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2551-apply-operations-to-an-array](https://github.com/amancodewiz/LeetCodeTracker/tree/master/2551-apply-operations-to-an-array) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/amancodewiz/LeetCodeTracker/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/amancodewiz/LeetCodeTracker/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [3483-alternating-groups-ii](https://github.com/amancodewiz/LeetCodeTracker/tree/master/3483-alternating-groups-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -110,4 +111,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/amancodewiz/LeetCodeTracker/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [3483-alternating-groups-ii](https://github.com/amancodewiz/LeetCodeTracker/tree/master/3483-alternating-groups-ii) |
 <!---LeetCode Topics End-->
