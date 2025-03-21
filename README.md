@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1170-shortest-common-supersequence](https://github.com/amancodewiz/LeetCodeTracker/tree/master/1170-shortest-common-supersequence) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/amancodewiz/LeetCodeTracker/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2107-find-unique-binary-string](https://github.com/amancodewiz/LeetCodeTracker/tree/master/2107-find-unique-binary-string) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/amancodewiz/LeetCodeTracker/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/amancodewiz/LeetCodeTracker/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/amancodewiz/LeetCodeTracker/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Linked List
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/amancodewiz/LeetCodeTracker/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/amancodewiz/LeetCodeTracker/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2107-find-unique-binary-string](https://github.com/amancodewiz/LeetCodeTracker/tree/master/2107-find-unique-binary-string) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/amancodewiz/LeetCodeTracker/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/amancodewiz/LeetCodeTracker/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2308-divide-array-into-equal-pairs](https://github.com/amancodewiz/LeetCodeTracker/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/amancodewiz/LeetCodeTracker/tree/master/2478-longest-nice-subarray) |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/amancodewiz/LeetCodeTracker/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/amancodewiz/LeetCodeTracker/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2107-find-unique-binary-string](https://github.com/amancodewiz/LeetCodeTracker/tree/master/2107-find-unique-binary-string) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/amancodewiz/LeetCodeTracker/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2308-divide-array-into-equal-pairs](https://github.com/amancodewiz/LeetCodeTracker/tree/master/2308-divide-array-into-equal-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/amancodewiz/LeetCodeTracker/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/amancodewiz/LeetCodeTracker/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
@@ -95,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/amancodewiz/LeetCodeTracker/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/amancodewiz/LeetCodeTracker/tree/master/2564-most-profitable-path-in-a-tree) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/amancodewiz/LeetCodeTracker/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Math
@@ -159,4 +163,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/amancodewiz/LeetCodeTracker/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
+## Topological Sort
+|  |
+| ------- |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/amancodewiz/LeetCodeTracker/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 <!---LeetCode Topics End-->
