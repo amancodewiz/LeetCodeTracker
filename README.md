@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0371-sum-of-two-integers](https://github.com/amancodewiz/LeetCodeTracker/tree/master/0371-sum-of-two-integers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/amancodewiz/LeetCodeTracker/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/amancodewiz/LeetCodeTracker/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2610-closest-prime-numbers-in-range](https://github.com/amancodewiz/LeetCodeTracker/tree/master/2610-closest-prime-numbers-in-range) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0371-sum-of-two-integers](https://github.com/amancodewiz/LeetCodeTracker/tree/master/0371-sum-of-two-integers) |
 | [2308-divide-array-into-equal-pairs](https://github.com/amancodewiz/LeetCodeTracker/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/amancodewiz/LeetCodeTracker/tree/master/2478-longest-nice-subarray) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/amancodewiz/LeetCodeTracker/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
