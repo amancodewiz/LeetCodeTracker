@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/amancodewiz/LeetCodeTracker/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/amancodewiz/LeetCodeTracker/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/amancodewiz/LeetCodeTracker/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/amancodewiz/LeetCodeTracker/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/amancodewiz/LeetCodeTracker/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/amancodewiz/LeetCodeTracker/tree/master/0283-move-zeroes) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/amancodewiz/LeetCodeTracker/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/amancodewiz/LeetCodeTracker/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/amancodewiz/LeetCodeTracker/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/amancodewiz/LeetCodeTracker/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/amancodewiz/LeetCodeTracker/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/amancodewiz/LeetCodeTracker/tree/master/0206-reverse-linked-list) |
 ## Array
 |  |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/amancodewiz/LeetCodeTracker/tree/master/0143-reorder-list) |
 | [1078-remove-outermost-parentheses](https://github.com/amancodewiz/LeetCodeTracker/tree/master/1078-remove-outermost-parentheses) |
 ## Backtracking
 |  |
@@ -189,5 +192,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/amancodewiz/LeetCodeTracker/tree/master/0021-merge-two-sorted-lists) |
+| [0143-reorder-list](https://github.com/amancodewiz/LeetCodeTracker/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/amancodewiz/LeetCodeTracker/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
