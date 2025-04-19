@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/amancodewiz/LeetCodeTracker/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/amancodewiz/LeetCodeTracker/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/amancodewiz/LeetCodeTracker/tree/master/0283-move-zeroes) |
+| [0647-palindromic-substrings](https://github.com/amancodewiz/LeetCodeTracker/tree/master/0647-palindromic-substrings) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/amancodewiz/LeetCodeTracker/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/amancodewiz/LeetCodeTracker/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/amancodewiz/LeetCodeTracker/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/amancodewiz/LeetCodeTracker/tree/master/0151-reverse-words-in-a-string) |
+| [0647-palindromic-substrings](https://github.com/amancodewiz/LeetCodeTracker/tree/master/0647-palindromic-substrings) |
 | [1078-remove-outermost-parentheses](https://github.com/amancodewiz/LeetCodeTracker/tree/master/1078-remove-outermost-parentheses) |
 | [1170-shortest-common-supersequence](https://github.com/amancodewiz/LeetCodeTracker/tree/master/1170-shortest-common-supersequence) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/amancodewiz/LeetCodeTracker/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/amancodewiz/LeetCodeTracker/tree/master/0338-counting-bits) |
+| [0647-palindromic-substrings](https://github.com/amancodewiz/LeetCodeTracker/tree/master/0647-palindromic-substrings) |
 | [1170-shortest-common-supersequence](https://github.com/amancodewiz/LeetCodeTracker/tree/master/1170-shortest-common-supersequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/amancodewiz/LeetCodeTracker/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/amancodewiz/LeetCodeTracker/tree/master/2090-number-of-ways-to-arrive-at-destination) |
