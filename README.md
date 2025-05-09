@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/amancodewiz/LeetCodeTracker/tree/master/0001-two-sum) |
 | [0075-sort-colors](https://github.com/amancodewiz/LeetCodeTracker/tree/master/0075-sort-colors) |
+| [0152-maximum-product-subarray](https://github.com/amancodewiz/LeetCodeTracker/tree/master/0152-maximum-product-subarray) |
 | [0283-move-zeroes](https://github.com/amancodewiz/LeetCodeTracker/tree/master/0283-move-zeroes) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/amancodewiz/LeetCodeTracker/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/amancodewiz/LeetCodeTracker/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0152-maximum-product-subarray](https://github.com/amancodewiz/LeetCodeTracker/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/amancodewiz/LeetCodeTracker/tree/master/0338-counting-bits) |
 | [0647-palindromic-substrings](https://github.com/amancodewiz/LeetCodeTracker/tree/master/0647-palindromic-substrings) |
 | [1170-shortest-common-supersequence](https://github.com/amancodewiz/LeetCodeTracker/tree/master/1170-shortest-common-supersequence) |
