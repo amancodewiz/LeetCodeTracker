@@ -52,9 +52,9 @@ class Solution {
 
         for(int i=0;i<nums.length;i++){
             // Skip duplicate values for i
-            if(i>0 && nums[i]==nums[i-1]) continue; //pehle i=0 ko fix krdia in above for loop, uske baad check kia ki i apne previous i-1 ke barabar hai toh continue krdo which means for loop me jaakr i++ krdo; 
-           int j=i+1;
-            int k=nums.length-1;
+            if(i>0 && nums[i]==nums[i-1]) continue; //pehle i=0 ko fix krdia in above for loop, uske baad check kia ki i apne previous i-1 ke barabar hai toh continue krdo which means for loop me jaakr i++ krdo; ye  krke hum duplicacy check kr rhe hai
+           int j=i+1; //j=low
+            int k=nums.length-1; //k=high
 
             while(j<k){
                 int sum=nums[i]+nums[j]+nums[k];
@@ -83,5 +83,3 @@ class Solution {
         return ans;
     }
 } 
-
-
