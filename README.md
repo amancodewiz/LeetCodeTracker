@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-find-smallest-letter-greater-than-target](https://github.com/amancodewiz/LeetCodeTracker/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/amancodewiz/LeetCodeTracker/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0940-fruit-into-baskets](https://github.com/amancodewiz/LeetCodeTracker/tree/master/0940-fruit-into-baskets) |
+| [1354-find-players-with-zero-or-one-losses](https://github.com/amancodewiz/LeetCodeTracker/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/amancodewiz/LeetCodeTracker/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2107-find-unique-binary-string](https://github.com/amancodewiz/LeetCodeTracker/tree/master/2107-find-unique-binary-string) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/amancodewiz/LeetCodeTracker/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/amancodewiz/LeetCodeTracker/tree/master/0217-contains-duplicate) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/amancodewiz/LeetCodeTracker/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0940-fruit-into-baskets](https://github.com/amancodewiz/LeetCodeTracker/tree/master/0940-fruit-into-baskets) |
+| [1354-find-players-with-zero-or-one-losses](https://github.com/amancodewiz/LeetCodeTracker/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/amancodewiz/LeetCodeTracker/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2107-find-unique-binary-string](https://github.com/amancodewiz/LeetCodeTracker/tree/master/2107-find-unique-binary-string) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/amancodewiz/LeetCodeTracker/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/amancodewiz/LeetCodeTracker/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/amancodewiz/LeetCodeTracker/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/amancodewiz/LeetCodeTracker/tree/master/0217-contains-duplicate) |
+| [1354-find-players-with-zero-or-one-losses](https://github.com/amancodewiz/LeetCodeTracker/tree/master/1354-find-players-with-zero-or-one-losses) |
 ## Stack
 |  |
 | ------- |
@@ -186,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1354-find-players-with-zero-or-one-losses](https://github.com/amancodewiz/LeetCodeTracker/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [2308-divide-array-into-equal-pairs](https://github.com/amancodewiz/LeetCodeTracker/tree/master/2308-divide-array-into-equal-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/amancodewiz/LeetCodeTracker/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Bit Manipulation
