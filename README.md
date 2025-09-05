@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/amancodewiz/LeetCodeTracker/tree/master/0151-reverse-words-in-a-string) |
+| [0290-word-pattern](https://github.com/amancodewiz/LeetCodeTracker/tree/master/0290-word-pattern) |
 | [0647-palindromic-substrings](https://github.com/amancodewiz/LeetCodeTracker/tree/master/0647-palindromic-substrings) |
 | [1078-remove-outermost-parentheses](https://github.com/amancodewiz/LeetCodeTracker/tree/master/1078-remove-outermost-parentheses) |
 | [1170-shortest-common-supersequence](https://github.com/amancodewiz/LeetCodeTracker/tree/master/1170-shortest-common-supersequence) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/amancodewiz/LeetCodeTracker/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/amancodewiz/LeetCodeTracker/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/amancodewiz/LeetCodeTracker/tree/master/0217-contains-duplicate) |
+| [0290-word-pattern](https://github.com/amancodewiz/LeetCodeTracker/tree/master/0290-word-pattern) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/amancodewiz/LeetCodeTracker/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0940-fruit-into-baskets](https://github.com/amancodewiz/LeetCodeTracker/tree/master/0940-fruit-into-baskets) |
 | [1319-unique-number-of-occurrences](https://github.com/amancodewiz/LeetCodeTracker/tree/master/1319-unique-number-of-occurrences) |
